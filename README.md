@@ -1,12 +1,3 @@
-<img src="https://github.com/Naibuu/Naibuu/blob/main/banner.png?raw=true" />
-<h1 align="center">🌴🚸 (づ｡◕‿‿◕｡)づ</h1>
-<h3 align="center">
-    I do Front-end Web development and Graphics designing.
-    <br>
-</h3>
+# 👋 My name is Naibuu
 
-
-### 🏝 Tools & Languages
-
-<img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/lang.png?raw=true" />
-<img height="35px" src="https://github.com/Naibuu/Naibuu/blob/main/tools.png?raw=true" />
+<p>I am a frontend developer. I work on projects such as <a href="https://solartweaks.com" target="_blank">Solar Tweaks</a> Launcher & Website, and <a href="https://offlinecheatbreaker.com" target="_blank">Offline Cheatbreaker</a>. I use tools like Node, Visual Studio Code, Electron, and Git. I am proficient in languages like TypeScript, JavaScript, React, NextJs, VueJs, HTML, CSS, and C#. My goal for 2023 is to learn Java and Rust in order to improve my skills and knowledge.
