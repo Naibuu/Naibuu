@@ -5,3 +5,5 @@
   ^
   |
   | Thanks AI for writing this <3
+
+Currently I am learning Rust ;)
