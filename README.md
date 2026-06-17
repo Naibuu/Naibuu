@@ -1,2 +1,2 @@
-!\[smiley](smiley.png)
+![smiley](smiley.png)
 
